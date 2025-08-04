@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me 👋
 
-Hi I'm Sam a second year student at Monash doing my degree in computer scient specialisation in Data Science
--->
+Year 2 Sem 2 student currently at Monash
+
+Computer Science specialisation in data Science
+
+## Socials 💻
+
