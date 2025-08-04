@@ -24,6 +24,6 @@ Currently Learning CSS, Typescripting, and Linux.....
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Stats ⚛
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-mue1)
 ![Sam's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Sa-mue1&combine_all_yearly_contributions=true&limit=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-mue1)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sa-mue1&show_icons=true&theme=swift)
