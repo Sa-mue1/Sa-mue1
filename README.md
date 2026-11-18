@@ -1,6 +1,6 @@
 ## About me 👋
 
-Year 2 Sem 2 student currently at Monash University Malaysia
+Monash University Malaysia Graduate
 
 Computer Science specialisation in data Science
 
